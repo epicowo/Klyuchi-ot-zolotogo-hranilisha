@@ -6,10 +6,8 @@
   "minimumCoreVersion": "13",
   "compatibleCoreVersion": "13",
   "author": "eo",
-  "manifest": "https://github.com/epicowo/Klyuchi-ot-zolotogo-hranilisha/releases/download/v1.0.0/klyuchi-ot-zolotogo-hranilisha.zip",
+  "manifest": "https://raw.githubusercontent.com/epicowo/Klyuchi-ot-zolotogo-hranilisha/refs/heads/main/manifest.json",
   "download": "https://github.com/epicowo/Klyuchi-ot-zolotogo-hranilisha/releases/download/v1.0.0/klyuchi-ot-zolotogo-hranilisha.zip",
-  "system": "dnd5e",
-  "systems": ["dnd5e"],
-  "dependencies": []
-
+  "system": "dnd5e"
 }
+
